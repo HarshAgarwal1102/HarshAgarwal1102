@@ -1,5 +1,5 @@
 ### Hi there 👋
-Profile views [![HitCount](https://hits.dwyl.com/king4404/king4404.svg?style=flat-square)](http://hits.dwyl.com/king4404/king4404)
+![Profile Views](https://komarev.com/ghpvc/?username=king4404)
 <!--
 **king4404/king4404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
