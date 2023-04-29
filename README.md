@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=king4404)
-[![](https://visitcount.itsvg.in/api?id=king4404&icon=0&color=9)](https://visitcount.itsvg.in)
+
 <!--
 **king4404/king4404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
