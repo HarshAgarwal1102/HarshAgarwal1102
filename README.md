@@ -1,12 +1,10 @@
+![Profile Views](https://komarev.com/ghpvc/?username=king4404)
 <h1 align="center">Hi 👋, I'm Harsh Agarwal</h1>
-<h3 align="center">A passionate Software & FrontEnd developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=king4404&label=Profile%20views&color=0e75b6&style=flat" alt="rawhit02" /> </p>
-
-<br>
+<h3 align="center">A passionate Software & FrontEnd Developer</h3>
 
 <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
+# 💫 About Me:
 - 🔭 I’m currently working on [DSA](https://leetcode.com/agarwal_1102/)
 
 - 🌱 I’m currently learning **JAVA DSA and BackEnd Development**
@@ -16,7 +14,6 @@
 - 💬 Ask me about **Anything happening in life**
 
 - 📫 How to reach me **harshagarwal.4404@gmail.com**
-
 
 - ⚡ Fun fact **I Travel a Lot nearby Places where I Live**
 
@@ -50,10 +47,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
 
 
-<h3 align="left">Support:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=king4404&show_icons=true&locale=en&layout=compact" alt="king4404" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=king4404&show_icons=true&locale=en" alt="king4404" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=king4404&" alt="king4404" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=king4404&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=king4404&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=king4404&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
