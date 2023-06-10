@@ -1,5 +1,4 @@
 ### Hi there 👋
-![Profile Views](https://komarev.com/ghpvc/?username=king4404)
 
 <h1 align="center">Hi 👋, I'm Harsh Agarwal</h1>
 <h3 align="center">A passionate Software & FrontEnd developer</h3>
@@ -8,20 +7,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=king4404&label=Profile%20views&color=0e75b6&style=flat" alt="rawhit02" /> </p>
 
-- 🔭 I’m currently working on [DSA](https://leetcode.com/rohitroody47/)
+- 🔭 I’m currently working on [DSA](https://leetcode.com/agarwal_1102/)
 
-- 🌱 I’m currently learning **JAVA DSA and 3D Tools**
+- 🌱 I’m currently learning **JAVA DSA and BackEnd Development**
 
-- 💻 Working on Development [Backend & Frontend](https://rawhit02.github.io/kaps/)
-
-- 👨‍💻 All of my projects are available at [https://github.com/RawHit02](https://github.com/RawHit02)
+- 👨‍💻 All of my projects are available at [https://github.com/king4404](https://github.com/king4404)
 
 - 💬 Ask me about **Anything happening in life**
 
-- 📫 How to reach me **rohit.panwarr22@gmail.com**
+- 📫 How to reach me **harshagarwal.4404@gmail.com**
 
 
-- ⚡ Fun fact **I Travel a Lot nearby Places where i Live**
+- ⚡ Fun fact **I Travel a Lot nearby Places where I Live**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
