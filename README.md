@@ -12,17 +12,7 @@
 <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 # 💫 About Me:
-- 🔭 I’m currently working on [DSA](https://leetcode.com/agarwal_1102/)
-
-- 🌱 I’m currently learning **JAVA DSA and BackEnd Development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/king4404](https://github.com/king4404)
-
-- 💬 Ask me about **Anything happening in life**
-
-- 📫 How to reach me **harshagarwal.4404@gmail.com**
-
-- ⚡ Fun fact **I Travel a Lot nearby Places where I Live**
+🔭 I’m currently working on [DSA](https://leetcode.com/agarwal_1102/)<br> 🌱 I’m currently learning **JAVA DSA and BackEnd Development** <br> 👨‍💻 All of my projects are available at [https://github.com/king4404](https://github.com/king4404) <br> 💬 Ask me about **Anything happening in life** <br> 📫 How to reach me **harshagarwal.4404@gmail.com** <br> ⚡ Fun fact **I Travel a Lot nearby Places where I Live**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
