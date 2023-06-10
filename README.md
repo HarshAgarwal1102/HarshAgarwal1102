@@ -1,5 +1,12 @@
+<div align=center>
+      
 ![Profile Views](https://komarev.com/ghpvc/?username=king4404)
-<h1 align="center">Hi 👋, I'm Harsh Agarwal</h1>
+      </div>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=46&pause=10000&color=000000&center=true&vCenter=true&width=600&height=100&lines=I'm+Harsh+Agarwal!">
+  </a>
+</h1>
 <h3 align="center">A passionate Software & FrontEnd Developer</h3>
 
 <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
@@ -51,3 +58,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=king4404&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=king4404&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=king4404&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=king4404&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
