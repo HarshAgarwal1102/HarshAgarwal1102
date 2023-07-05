@@ -1,7 +1,7 @@
-<div align=center>
-      
-![Profile Views](https://komarev.com/ghpvc/?username=king4404)
-      </div>
+<p><img align="center" src="https://github.com/king4404/king4404/assets/117922914/39c6f372-07dc-41c3-afa6-9da2b224636f"alt="king4404" /></p>
+
+<p><img align="right" src="https://komarev.com/ghpvc/?username=king4404"alt="king4404" /></p><br>
+         
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=45&pause=10000&color=FF7722&center=true&vCenter=true&width=600&height=100&lines=I'm+ዙarsh+Agarwal!">
