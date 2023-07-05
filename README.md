@@ -16,16 +16,17 @@
 
 
 # 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshagarwal_1102/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh4404/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshagarwal_1102/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh4404/) [![Medium](https://img.shields.io/badge/Medium-%2305577D9.svg?logo=Medium&logoColor=white)](https://medium.com/@harshagarwal2225/) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=king4404&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=king4404&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=king4404&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=king4404&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="king4404" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=king4404&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="king4404" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=king4404&theme=dark&hide_border=true" alt="king4404" /></p>
+
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=king4404&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=king4404&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=-1)
