@@ -1,6 +1,4 @@
 <p><img align="center" src="https://github.com/king4404/king4404/assets/117922914/39c6f372-07dc-41c3-afa6-9da2b224636f"alt="king4404" /></p>
-
-
          
 <h1 align="center">
   <a href="https://git.io/typing-svg">
