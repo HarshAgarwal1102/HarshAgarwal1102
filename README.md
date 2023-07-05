@@ -31,6 +31,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=king4404&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="king4404" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=king4404&theme=dark&hide_border=true" alt="king4404" /></p>
 
-
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=king4404&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=-1)
