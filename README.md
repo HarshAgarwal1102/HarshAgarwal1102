@@ -6,7 +6,7 @@
   <p><img align="right" src="https://komarev.com/ghpvc/?username=king4404"alt="king4404" /></p>
 </h1>
 
-[![Instagram](https://img.shields.io/badge/MyResume-%23E4405F.svg?logo=Resume&logoColor=white)](https://drive.google.com/file/d/1KHgTKL1erOoNqDRxRa3x5cBWBLO7JXjV/view?usp=drive_link)
+[![MyResume](https://img.shields.io/badge/MyResume-%20E3305F.svg?logo=Resume&logoColor=white)](https://drive.google.com/file/d/1KHgTKL1erOoNqDRxRa3x5cBWBLO7JXjV/view?usp=drive_link)
 
 <h3 align="center">A passionate Software & FrontEnd Developer</h3>
 
