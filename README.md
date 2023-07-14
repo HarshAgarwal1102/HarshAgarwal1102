@@ -8,7 +8,7 @@
 
 [![MyResume](https://img.shields.io/badge/MyResume-%20E3305F.svg?&style=plastic&logo=Resume&logoColor=white)](https://drive.google.com/file/d/1KHgTKL1erOoNqDRxRa3x5cBWBLO7JXjV/view?usp=drive_link)
 
-<h3 align="center">A passionate Software & FrontEnd Developer</h3>
+<h3 align="center">A passionate Java & FrontEnd Developer</h3>
 
 <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
