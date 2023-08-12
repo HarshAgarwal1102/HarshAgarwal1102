@@ -1,9 +1,9 @@
 <h1 align="center">
-<p><img src="https://github.com/king4404/king4404/assets/117922914/39c6f372-07dc-41c3-afa6-9da2b224636f"alt="king4404" /></p>
+<p><img src="https://github.com/HarshAgarwal1102/HarshAgarwal1102/assets/117922914/39c6f372-07dc-41c3-afa6-9da2b224636f"alt="HarshAgarwal1102" /></p>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=45&pause=10000&color=FF7722&center=true&vCenter=true&width=600&height=100&lines=I'm+ዙarsh+Agarwal!">
   </a>
-  <p><img align="right" src="https://komarev.com/ghpvc/?username=HarshAgarwal1102"alt="HarshAgarwal1102" /></p>
+  <p><img align="right" src="https://komarev.com/ghpvc/?username=king4404"alt="HarshAgarwal1102" /></p>
 </h1>
 
 [![MyResume](https://img.shields.io/badge/MyResume-%20E3305F.svg?&style=plastic&logo=Resume&logoColor=white)](https://drive.google.com/file/d/1c0YXhbg7FSWaSSphan3kx5f2yrLjlXIj/view?usp=drive_link)
