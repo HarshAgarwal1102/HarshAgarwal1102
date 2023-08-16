@@ -34,4 +34,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=HarshAgarwal1102&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=-1)
 
 <p align="center">
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+![dino](https://github.com/HarshAgarwal1102/HarshAgarwal1102/assets/117922914/61d89383-610c-46c1-a1d8-b0b06e57a9c8)
