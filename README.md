@@ -35,3 +35,5 @@
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HarshAgarwal1102&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=-1)
+
+![Snake animation](https://github.com/HarshAgarwal1102/HarshAgarwal1102/blob/output/github-contribution-grid-snake.svg)
