@@ -25,7 +25,7 @@
 # ⚙️ Developer Tools:
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-%230078D4.svg?style=plastic&logo=visual%20studio%20code&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?style=plastic&logo=eclipse&logoColor=white) ![Replit](https://img.shields.io/badge/Replit-%23667881.svg?style=plastic&logo=replit&logoColor=orange)
 
-# 🎮 Fun :
+# 🎮 Fun:
 ![dino](https://github.com/HarshAgarwal1102/HarshAgarwal1102/assets/117922914/61d89383-610c-46c1-a1d8-b0b06e57a9c8)
 
 # 📊 GitHub Stats:
@@ -36,5 +36,5 @@
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HarshAgarwal1102&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=-1)
 
-# GitHub Contribution Graph eaten by Snake 🐍
+# 🐍 GitHub Contribution Graph eaten by Snake:
 ![snake gif](https://github.com/HarshAgarwal1102/HarshAgarwal1102/blob/output/github-contribution-grid-snake-dark.svg)
