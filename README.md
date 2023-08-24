@@ -1,18 +1,19 @@
 <h1 align="center">
 <p><img src="https://github.com/HarshAgarwal1102/HarshAgarwal1102/assets/117922914/39c6f372-07dc-41c3-afa6-9da2b224636f"alt="HarshAgarwal1102" /></p>
   <a href="https://git.io/typing-svg">
+    
+<p align="left"><img src="https://komarev.com/ghpvc/?username=king4404"alt="HarshAgarwal1102" /></p>
     <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=45&pause=10000&color=FF7722&center=true&vCenter=true&width=600&height=100&lines=I'm+ዙarsh+Agarwal!">
   </a>
 
   <p align="right">
 <a href="https://drive.google.com/file/d/1jUbAyKY5xmjEi9oVH-yIp26Q_wYfpzeK/view?usp=drive_link" style="text-decoration: none; margin-left: 10px;">
-    <img src="https://img.icons8.com/?size=512&id=44834&format=png" alt="Resume" width="55px" height="65px" style="vertical-align: middle;" />
+    <img src="https://img.icons8.com/?size=512&id=44834&format=png" alt="Resume" width="50px" height="60px" style="vertical-align: middle;" />
     Resume
 </a>
 </p>
-</h1>
-<p><img src="https://komarev.com/ghpvc/?username=king4404"alt="HarshAgarwal1102" /></p>
 
+</h1>
 
 <h3 align="center">A passionate Software & Front End Developer</h3>
 
