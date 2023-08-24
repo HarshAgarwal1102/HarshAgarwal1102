@@ -3,10 +3,16 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=45&pause=10000&color=FF7722&center=true&vCenter=true&width=600&height=100&lines=I'm+ዙarsh+Agarwal!">
   </a>
-  <p><img align="right" src="https://komarev.com/ghpvc/?username=king4404"alt="HarshAgarwal1102" /></p>
-</h1>
 
-[![MyResume](https://img.shields.io/badge/MyResume-%20E3305F.svg?&style=plastic&logo=Resume&logoColor=white)](https://drive.google.com/file/d/1jUbAyKY5xmjEi9oVH-yIp26Q_wYfpzeK/view?usp=drive_link)
+  <p align="right">
+<a href="https://drive.google.com/file/d/1jUbAyKY5xmjEi9oVH-yIp26Q_wYfpzeK/view?usp=drive_link" style="text-decoration: none; margin-left: 10px;">
+    <img src="https://img.icons8.com/?size=512&id=44834&format=png" alt="Resume" width="55px" height="65px" style="vertical-align: middle;" />
+    Resume
+</a>
+</p>
+</h1>
+<p><img src="https://komarev.com/ghpvc/?username=king4404"alt="HarshAgarwal1102" /></p>
+
 
 <h3 align="center">A passionate Software & Front End Developer</h3>
 
