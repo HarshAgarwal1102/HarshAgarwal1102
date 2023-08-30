@@ -1,7 +1,7 @@
 <h1 align="center">
-<p><img src="https://github.com/HarshAgarwal1102/HarshAgarwal1102/assets/117922914/39c6f372-07dc-41c3-afa6-9da2b224636f"alt="HarshAgarwal1102" /></p>
+<p><img src="https://github.com/HarshAgarwal1102/HarshAgarwal1102/assets/117922914/24943b5b-bb0c-47ef-80a0-6076f7b0f97a"alt="HarshAgarwal1102" /></p>
+  
   <a href="https://git.io/typing-svg">
-    
 <p align="left"><img src="https://komarev.com/ghpvc/?username=king4404"alt="HarshAgarwal1102" /></p>
     <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=45&pause=10000&color=FF7722&center=true&vCenter=true&width=600&height=100&lines=I'm+ዙarsh+Agarwal!">
   </a>
