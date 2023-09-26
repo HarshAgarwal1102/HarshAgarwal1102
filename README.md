@@ -40,6 +40,8 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
 ![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=plastic&logo=material-ui&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white)
 
 # <img src="https://media.giphy.com/media/1RCFsNQN3dsxK8y8u7/giphy.gif" width="40"> Developer Tools:
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-%230078D4.svg?style=plastic&logo=visual%20studio%20code&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?style=plastic&logo=eclipse&logoColor=white) ![Replit](https://img.shields.io/badge/Replit-%23667881.svg?style=plastic&logo=replit&logoColor=orange)
