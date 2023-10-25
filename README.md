@@ -1,5 +1,5 @@
 <h1 align="center">
-<p><img src="https://github.com/HarshAgarwal1102/HarshAgarwal1102/assets/117922914/24943b5b-bb0c-47ef-80a0-6076f7b0f97a"alt="HarshAgarwal1102" /></p>
+<p><img src="https://github.com/HarshAgarwal1102/HarshAgarwal1102/assets/117922914/0c0075b0-9185-4576-82b9-9c34f9f2667b"alt="HarshAgarwal1102" /></p>
   
   <a href="https://git.io/typing-svg">
 <p align="left"><img src="https://komarev.com/ghpvc/?username=king4404"alt="HarshAgarwal1102" /></p>
