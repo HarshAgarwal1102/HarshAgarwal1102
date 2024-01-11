@@ -56,6 +56,3 @@
 
 # <img src="https://media.giphy.com/media/Y0kYalhMDB9II/giphy.gif" width="40" height="40"> GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HarshAgarwal1102&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=-1)
-
-# <img src="https://media.giphy.com/media/6xW2ww8QITVHG/giphy.gif" width="40" height="40"> GitHub Contribution Graph eaten by Snake:
-![snake gif](https://github.com/HarshAgarwal1102/HarshAgarwal1102/blob/output/github-contribution-grid-snake-dark.svg)
