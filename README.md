@@ -47,7 +47,13 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white)
 
 # <img src="https://media.giphy.com/media/1RCFsNQN3dsxK8y8u7/giphy.gif" width="40"> Developer Tools:
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-%230078D4.svg?style=plastic&logo=visual%20studio%20code&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?style=plastic&logo=eclipse&logoColor=white) ![Replit](https://img.shields.io/badge/Replit-%23667881.svg?style=plastic&logo=replit&logoColor=orange)
+![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
+![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=plastic&logo=visual%20studio&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL/SQL-F80000?style=plastic&logo=PL/SQL&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?style=plastic&logo=eclipse&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-%230078D4.svg?style=plastic&logo=visual%20studio%20code&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-%23667881.svg?style=plastic&logo=replit&logoColor=orange)
+
 
 # 🎮 Fun:
 ![dino](https://github.com/HarshAgarwal1102/HarshAgarwal1102/assets/117922914/61d89383-610c-46c1-a1d8-b0b06e57a9c8)
