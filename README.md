@@ -20,7 +20,7 @@
 <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 # 💫 About Me:
-🔭 B.Tech(CSE) Graduate from DIT University🎓 <br> 🌱 I’m currently working as a **Software Developer** @ <a href ="https://www.linkedin.com/company/hansa-solutions-india-pvt-ltd/">Hansa Solutions India Pvt Ltd</a> <br> 👨‍💻 All of my projects are available at my [GitHub Repo](https://github.com/HarshAgarwal1102?tab=repositories) <br> 💬 Ask me about **Anything happening in life** <br> 📫 Reach me out **harshagarwal.4404@gmail.com** <br> ⚡ Fun fact **I Travel a Lot nearby Places where I Live**
+🔭 B.Tech(CSE) Graduate from DIT University🎓 <br> 🌱 I’m currently working as a **Software Developer** @<a href ="https://www.linkedin.com/company/hansa-solutions-india-pvt-ltd/">Hansa Solutions India Pvt Ltd</a> <br> 👨‍💻 All of my projects are available at my [GitHub Repo](https://github.com/HarshAgarwal1102?tab=repositories) <br> 💬 Ask me about **Anything happening in life** <br> 📫 Reach me out **harshagarwal.4404@gmail.com** <br> ⚡ Fun fact **I Travel a Lot nearby Places where I Live**
 
 
 # 🌐 Socials:
