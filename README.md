@@ -27,6 +27,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh4404/) [![Medium](https://img.shields.io/badge/Medium-%2305577D9.svg?logo=Medium&logoColor=white)](https://medium.com/@harshagarwal2225/) [![LeetCode](https://img.shields.io/badge/-LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=black)](https://leetcode.com/agarwal1102/) [![LinkTree](https://img.shields.io/badge/Linktree-%2339E09B.svg?logo=linktree&logoColor=white)](https://linktr.ee/agarwal_harsh) [![GFG](https://img.shields.io/badge/GeeksforGeeks-%23298D46.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/agarwal_harsh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshagarwal_1102/) 
 
 # <img src="https://media.giphy.com/media/UShQUYH1cN37CvhcFL/giphy.gif" width="60"> Tech Stack:
+![VB.net](https://img.shields.io/badge/VB.NET-5C2D91?style=plastic&logo=VB.net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white)
+![.net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
