@@ -7,7 +7,7 @@
   </a>
 
   <p align="right">
-<a href="https://drive.google.com/file/d/1Dgvd0dOtlFDbvcsjl6rmGGv_C5kT5yCq/view?usp=drive_link" style="text-decoration: none; margin-left: 10px;">
+<a href="https://drive.google.com/file/d/1G2DqWWT_iy98MbGGZQ3nWlRCoVlFEyNi/view?usp=drive_link" style="text-decoration: none; margin-left: 10px;">
     <img src="https://img.icons8.com/?size=512&id=44834&format=png" alt="Resume" width="50px" height="60px" style="vertical-align: middle;" />
     Resume
 </a>
