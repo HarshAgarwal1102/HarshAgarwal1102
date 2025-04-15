@@ -3,8 +3,10 @@
   
   <a href="https://git.io/typing-svg">
 <p align="left"><img src="https://komarev.com/ghpvc/?username=HarshAgarwal1102"alt="HarshAgarwal1102" /></p>
-    <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=45&pause=10000&color=FF7722&center=true&vCenter=true&width=600&height=100&lines=I'm+ዙarsh+Agarwal!">
+    <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=45&pause=10000&color=FF7722&center=true&vCenter=true&width=600&height=100&lines=I'm+Harsh+Agarwal!">
   </a>
+
+</h1>
 
   <p align="right">
 <a href="https://drive.google.com/file/d/1G2DqWWT_iy98MbGGZQ3nWlRCoVlFEyNi/view?usp=drive_link" style="text-decoration: none; margin-left: 10px;">
