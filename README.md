@@ -292,8 +292,8 @@ This README is maintained the way I run infrastructure: versioned, automated and
 | Workflow | What it does |
 | :--- | :--- |
 | [![snake](https://github.com/HarshAgarwal1102/HarshAgarwal1102/actions/workflows/snake.yml/badge.svg)](.github/workflows/snake.yml) | Regenerates the contribution snake daily and publishes it to the `output` branch |
-| [![blog](https://github.com/HarshAgarwal1102/HarshAgarwal1102/actions/workflows/blog-posts.yml/badge.svg)](.github/workflows/blog-posts.yml) | Syncs my latest Medium posts into this README every week |
 | [Dependabot](.github/dependabot.yml) | Keeps every action, pinned by commit SHA, up to date |
+| 🔒 Branch protection | `main` is locked and PR-only, just like production |
 
 Header and terminal art are hand-built SVGs in [`assets/`](assets), with dark and light variants.
 
