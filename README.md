@@ -1,40 +1,101 @@
-<h1 align="center">
-  <img src="https://github.com/HarshAgarwal1102/HarshAgarwal1102/assets/117922914/0c0075b0-9185-4576-82b9-9c34f9f2667b" alt="HarshAgarwal1102" />
-  <br>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1200&color=FF7722&center=true&vCenter=true&width=820&height=70&lines=Hi%2C+I'm+Harsh+Agarwal+%F0%9F%91%8B;DevSecOps+%26+Cloud+Engineer;Azure+%7C+Terraform+%7C+Kubernetes;Landing+Zones+%E2%80%A2+Migrations+%E2%80%A2+FinOps" alt="Typing SVG" />
-  </a>
-</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img alt="Harsh Agarwal, DevSecOps & Cloud Engineer" src="assets/banner-dark.svg" width="100%">
+</picture>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=king4404&color=FF7722&style=flat-square&label=Profile+Views" alt="profile views" />
-  <a href="https://drive.google.com/file/d/1NM0YT_uRSXG6S4tKwD47B3GF6WAhz4dG/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-View-FF7722?style=flat-square&logo=googledrive&logoColor=white" alt="Resume" /></a>
-  <a href="https://www.linkedin.com/in/harsh4404/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:harshagarwal.4404@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://drive.google.com/file/d/1NM0YT_uRSXG6S4tKwD47B3GF6WAhz4dG/view?usp=drive_link"><img src="https://img.shields.io/badge/Résumé-FF7A1A?style=for-the-badge&logo=googledrive&logoColor=white" alt="Résumé"></a>
+  <a href="https://harshagarwal-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0B1020?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/harsh4404/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://medium.com/@harshagarwal2225/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="mailto:harshagarwal.4404@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<h3 align="center">I design cloud platforms that are <i>scalable, secure, governed and cost-aware</i> — and automate everything in between.</h3>
+<p align="center">
+  <img src="assets/terminal.svg" alt="Terminal: whoami, terraform plan with no drift, 2885 tests passing" width="820">
+</p>
+
+> I design and automate **Azure platforms that are scalable, secure, governed and cost-aware**: landing zones, hub-and-spoke networks, Terraform with policy guardrails, and pipelines that catch drift, secrets and cost surprises before production does.
+> Every design starts from one question: **what is the business, and what is the functional domain?**
 
 ---
 
-## 💫 About Me
+## ⚡ At a Glance
 
-<img align="right" alt="cloud" width="320" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+```yaml
+# $ kubectl get engineer harsh-agarwal -o yaml
+apiVersion: people/v1
+kind: Engineer
+metadata:
+  name: harsh-agarwal
+  labels:
+    role: devsecops-cloud-engineer
+    cloud: azure
+spec:
+  currentlyAt: Hansa Solutions India Pvt Ltd
+  platform:  [azure-landing-zones, hub-and-spoke, entra-id, azure-policy, pim]
+  iac:       [terraform, bicep, cloud-init]
+  pipelines: [github-actions, azure-devops, oidc-federation, sha-pinned-actions]
+  security:  [tflint, trivy, checkov, gitleaks, trufflehog, defender-for-cloud]
+  finops:    [infracost, azure-retail-prices-api, rightsizing, reservations]
+  aiops:     [python, langgraph]
+  education: "B.Tech CSE, DIT University (2024)"
+status:
+  building: ai-terraform-drift-detector Level 2 (local-first CLI)
+  openTo:   [platform-engineering, cloud-architecture, devsecops]
+```
 
-- 🏢 Currently building @ <a href="https://www.linkedin.com/company/hansa-solutions-india-pvt-ltd/">Hansa Solutions India Pvt Ltd</a>
-- ☁️ Focused on **Azure landing zones, Infrastructure as Code, DevSecOps pipelines and cloud migration**
-- 🧠 I start every design with one question: **"What is the business, and what is the functional domain?"**
-- 🔭 B.Tech (CSE) — 2024 graduate, DIT University 🎓
-- 📝 I write about cloud architecture, ADRs and post-mortems on [Medium](https://medium.com/@harshagarwal2225/)
-- 📫 **harshagarwal.4404@gmail.com** · ⚡ Fun fact: I travel a lot to places near where I live
+---
 
-<br clear="right"/>
+## 🚀 Featured Engineering
+
+### 🔍 [AI-Powered Terraform Drift Detection & Remediation Platform](https://github.com/HarshAgarwal1102/ai-terraform-drift-detector)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Release](https://img.shields.io/badge/release-level1--v1.0.0-FF7A1A?style=flat-square)
+
+Finds out when Azure no longer matches Terraform, explains **who changed what, when, and what it costs**, and raises it before it becomes an incident.
+
+```mermaid
+flowchart LR
+    AZ[("Azure<br/>live state")] --> PLAN["Scheduled plan<br/>GitHub Actions + OIDC"]
+    PLAN --> ENG["Deterministic<br/>drift engine (Python)"]
+    ENG --> ISS["GitHub Issue<br/>per drifted resource"]
+    ENG --> INV["Activity Log<br/>who / when / what"]
+    ENG --> AI["LangGraph analysis<br/>LLM opt-in"]
+    ENG --> COST["Infracost +<br/>unmanaged resources"]
+    INV & AI & COST --> UI["Local dashboard"]
+```
+
+| Engineering rigour | |
+| :--- | :--- |
+| ✅ **2,885 tests**, 98.85 % coverage of the drift engine | 🧪 **135-case** end-to-end matrix with failure injection |
+| 🔐 OIDC trust limited to `main`, **no client secrets** | 📌 Every workflow action **pinned by full commit SHA** |
+| 🛡️ TFLint · Trivy · TruffleHog in CI | 🚦 Protected `main`: PR + **6 required checks** |
+| 💰 Flagged 5 resources created outside Terraform in a live Azure test (≈ $44.85/mo list price) | 🧭 Remediation designed human-in-the-loop: safety spec first, no write access |
+
+### 🏗️ [Azure Infrastructure Landing Zone](https://github.com/HarshAgarwal1102/Azure-Infra-Landing-Zone)
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Gitleaks](https://img.shields.io/badge/Gitleaks-DC3545?style=flat-square&logo=git&logoColor=white)
+
+A modular, fully automated Azure landing zone in Terraform.
+
+- **9 reusable modules:** VNet, Subnet, Application Gateway, Load Balancer, Bastion, Key Vault, VM, Public IP, Resource Group
+- **Environment separation:** `preprod` and `prod` compose the same modules with their own variables
+- **Bootstrap stage** creates the remote-state storage idempotently, with TLS 1.2 and no public blob access
+- **Pipeline:** bootstrap → `init` / `validate` / `plan` → `apply`, with Gitleaks secret scanning
 
 ---
 
 ## 🏛️ The 10 Pillars I Build Against
-
-Every workload I design or migrate is measured against these pillars:
 
 | | | | | |
 |:---:|:---:|:---:|:---:|:---:|
@@ -43,13 +104,13 @@ Every workload I design or migrate is measured against these pillars:
 
 ---
 
-## 🧩 Core Expertise
+## 🧩 How I Design
 
-<details open>
-<summary><b>🏗️ Enterprise Governance & Landing Zones (Microsoft CAF)</b></summary>
+<details>
+<summary><b>🏗️ Enterprise governance & landing zones (Microsoft CAF)</b></summary>
 <br>
 
-I follow the **Cloud Adoption Framework** end to end: **Strategy → Plan → Ready → Adopt → Govern → Secure & Manage**.
+**Strategy → Plan → Ready → Adopt → Govern → Secure & Manage**
 
 ```
                         [ Microsoft Entra ID Tenant ]
@@ -64,267 +125,185 @@ I follow the **Cloud Adoption Framework** end to end: **Strategy → Plan → Re
   `-- Connectivity (Hub/FW)   `-- Dev | UAT | Prod subscriptions
 ```
 
-- **Subscription boundaries** per environment and function to isolate blast radius and avoid noisy neighbours
-- **Azure Policy & Initiatives** (CIS Benchmark, MCSB) assigned at Management Group scope, with audit/deny effects and time-bound, documented exemptions
-- **Group-based RBAC + PIM** — just-in-time privileged access with multi-stage approvals
+- **Subscription boundaries** per environment and function to contain blast radius
+- **Azure Policy initiatives** (CIS, MCSB) at Management Group scope; audit/deny with time-bound, documented exemptions
+- **Group-based RBAC + PIM** for just-in-time privileged access with multi-stage approval
 
 </details>
 
-<details open>
-<summary><b>🌐 Hub-and-Spoke Networking</b></summary>
+<details>
+<summary><b>🌐 Hub-and-spoke networking</b></summary>
 <br>
 
 ```mermaid
 flowchart TB
-    OnPrem["🏢 On-Premises Datacenter"] -- "ExpressRoute / S2S VPN" --> GW
-
-    subgraph HUB["HUB VNet — Central Connectivity"]
-        GW["GatewaySubnet<br/>VPN / ER Gateway"]
-        FW["Azure Firewall Premium<br/>/ NVA"]
+    OnPrem["On-Premises"] -- "ExpressRoute / S2S VPN" --> GW
+    subgraph HUB["HUB VNet"]
+        GW["VPN / ER Gateway"]
+        FW["Azure Firewall Premium"]
         DNS["Private DNS Zones"]
     end
-
-    subgraph S1["Spoke 1 — App VNet"]
-        APP["App Tier"] --- DB["DB Tier"] --- PE["Private Endpoints"]
+    subgraph S1["Spoke: App VNet"]
+        APP["App tier"] --- DB["DB tier"] --- PE["Private Endpoints"]
     end
-
-    subgraph S2["Spoke 2 — Shared Services VNet"]
-        RUN["CI/CD Runners"] --- BAS["Bastion"] --- SEC["Security Tooling"]
+    subgraph S2["Spoke: Shared Services"]
+        RUN["CI/CD runners"] --- BAS["Bastion"] --- SEC["Security tooling"]
     end
-
-    FW <-- "Peering + UDR 0.0.0.0/0 → FW" --> S1
-    FW <-- "Peering + UDR 0.0.0.0/0 → FW" --> S2
-    Internet(("🌍 Internet")) -- "Front Door / App Gateway + WAF" --> S1
+    FW <-- "peering + UDR 0.0.0.0/0" --> S1
+    FW <-- "peering + UDR 0.0.0.0/0" --> S2
+    NET(("Internet")) -- "Front Door / App GW + WAF" --> S1
 ```
 
-- **IPAM first** — audit on-prem CIDRs so no Azure VNet address space overlaps
-- **Centralised inspection** — UDRs force default and inter-spoke traffic through the firewall
-- **Controlled ingress/egress** — WAF at the edge, TLS-inspected egress through the hub
-- **Private-only PaaS** — Private Endpoints for Key Vault, Storage and SQL, resolved through hub-linked Private DNS Zones
+- **IPAM first:** no overlap between on-prem CIDRs and Azure address spaces
+- **Forced tunnelling** of default and inter-spoke traffic through the firewall
+- **Private-only PaaS** through Private Endpoints and hub-linked Private DNS
 
 </details>
 
-<details open>
-<summary><b>🛡️ Defense-in-Depth Security</b></summary>
+<details>
+<summary><b>🛡️ Defense in depth</b></summary>
 <br>
 
 | Layer | Controls |
 | :--- | :--- |
-| **Identity** | Microsoft Entra ID, Conditional Access, MFA, PIM, Managed Identities over secrets |
-| **Network** | Hub-and-spoke, NSG/ASG micro-segmentation, Azure Firewall Premium, Private Endpoints, DDoS Protection |
+| **Identity** | Entra ID, Conditional Access, MFA, PIM, Managed Identities instead of secrets |
+| **Network** | NSG/ASG micro-segmentation, Azure Firewall Premium, Private Endpoints, DDoS Protection |
 | **Governance** | Azure Policy, CIS / ISO 27001 benchmarks, Defender for Cloud Secure Score |
-| **Compute** | Defender for Servers, vulnerability scanning, disk encryption with CMK, automated patch baselines |
-
-</details>
-
-<details open>
-<summary><b>⚙️ Terraform & DevSecOps Pipelines</b></summary>
-<br>
-
-```mermaid
-flowchart LR
-    A["📝 Git PR"] --> B["🧹 fmt · validate · tflint"]
-    B --> C["🔍 Gitleaks · Checkov · Trivy · tfsec"]
-    C --> D["💵 Infracost"]
-    D --> E["📋 Plan artifact<br/>+ drift check"]
-    E --> F{"👥 Approval gate<br/>UAT / Prod"}
-    F -->|approved| G["🚀 Apply<br/>remote state, locked"]
-    G -->|failure| H["↩️ Automated rollback"]
-```
-
-- **Remote state** in a private Azure Storage Account — blob-lease locking, encrypted at rest, reached via least-privilege Managed Identity
-- **Reusable modules** with strict semantic versioning
-- **Nightly drift detection** using `terraform plan -detailed-exitcode` to catch manual portal changes
-- **Trunk-based development** with short-lived `feature/*` and `fix/*` branches
-- **Branch policies on `main`:** no direct push, no delete, PR with 2 senior reviewers, `CODEOWNERS` enforced
-- **Bootstrapping** via Cloud-Init / custom data for baseline config and agent install
+| **Compute** | Defender for Servers, vulnerability scanning, CMK disk encryption, patch baselines |
 
 </details>
 
 <details>
-<summary><b>🚚 End-to-End Cloud Migration (100+ workloads · Dev / UAT / Prod)</b></summary>
+<summary><b>⚙️ Terraform delivery pipeline</b></summary>
 <br>
 
 ```mermaid
 flowchart LR
-    D["🔎 Discovery<br/>inventory & dependencies"] --> A["📐 Assessment<br/>compatibility & TCO"]
-    A --> R["🏗️ Readiness<br/>landing zone ready"]
-    R --> C["🔀 Cutover<br/>downtime window"]
-    C --> H["🛟 Hypercare<br/>24x7 war room"]
+    A["PR"] --> B["fmt · validate · tflint"]
+    B --> C["Gitleaks · Checkov · Trivy"]
+    C --> D["Infracost"]
+    D --> E["Plan artifact + drift check"]
+    E --> F{"Approval<br/>UAT / Prod"}
+    F -->|approved| G["Apply<br/>locked remote state"]
+    G -->|failure| H["Rollback"]
+```
+
+- Remote state in private Storage with blob-lease locking, reached through a least-privilege Managed Identity
+- Semantically versioned modules · nightly `plan -detailed-exitcode` drift checks
+- Trunk-based development; `main` protected with no direct push, 2 reviewers and `CODEOWNERS`
+
+</details>
+
+<details>
+<summary><b>🚚 Migration of 100+ workloads (Dev / UAT / Prod)</b></summary>
+<br>
+
+```mermaid
+flowchart LR
+    D["Discovery"] --> A["Assessment<br/>& TCO"] --> R["Readiness"] --> C["Cutover"] --> H["Hypercare"]
 ```
 
 | Phase | Checklist |
 | :--- | :--- |
-| **Pre-migration** | Azure Migrate discovery, dependency mapping, bandwidth sizing, landing zone verification, backup verification |
-| **Cutover** | DB replication sync, DNS TTL reduction, traffic rerouting, validation tests |
-| **Post-migration** | Health telemetry, user sanity testing, performance benchmarks, 2–4 weeks of hypercare |
+| **Pre-migration** | Azure Migrate discovery, dependency mapping, bandwidth sizing, backup verification |
+| **Cutover** | Replication sync, DNS TTL reduction, traffic rerouting, validation tests |
+| **Post-migration** | Telemetry, user sanity tests, performance benchmarks, 2–4 weeks of hypercare |
 
 </details>
 
 <details>
-<summary><b>💰 FinOps — Cloud Financial Management</b></summary>
+<summary><b>💰 FinOps · 💾 DR · 📡 Observability</b></summary>
 <br>
 
-- **Eliminate waste:** unattached disks, stale snapshots, orphaned public IPs, idle compute
-- **Rightsize** using 30-day CPU/memory utilisation percentiles
-- **Commit smartly:** 1- or 3-year Reserved Instances and Azure Savings Plans for steady-state load
-- **Schedule** automatic start/stop for non-production outside business hours
-- **Tune log ingestion** with Data Collection Rules to drop noisy diagnostics at the source
-
-</details>
-
-<details>
-<summary><b>💾 Backup, DR & High Availability</b></summary>
-<br>
-
-| Concept | Approach |
+| Area | Practice |
 | :--- | :--- |
-| **Storage redundancy** | LRS (3 copies, 1 datacenter) → ZRS (3 zones) → GRS (paired region) |
-| **HA compute** | VM Scale Sets across Availability Zones |
-| **RTO** | Maximum tolerable downtime before service is restored |
-| **RPO** | Maximum tolerable data loss, e.g. ≤ 15 minutes of transactions |
-| **Region strategy** | Active primary region, Azure Site Recovery replicating to the paired region |
+| **FinOps** | Remove orphaned disks, snapshots and IPs; rightsize on 30-day P95; Reservations and Savings Plans; non-prod schedules; DCR log filtering |
+| **DR / HA** | LRS → ZRS → GRS by criticality; VMSS across zones; ASR to the paired region; explicit RTO and RPO per workload |
+| **Observability** | Central Log Analytics per landing zone; Azure Monitor Agent with DCRs; Action Groups to Teams, Slack or PagerDuty |
 
 </details>
 
 <details>
-<summary><b>📡 Observability</b></summary>
+<summary><b>🤝 Leadership & delivery governance</b></summary>
 <br>
 
-- Central **Log Analytics Workspace** per landing zone
-- **Azure Monitor Agent** with DCR filtering at source for cost and performance
-- **Action Groups** routing alerts to Teams, Slack or PagerDuty by severity
+`RFI → RFP → Evaluation matrix → SOW → Milestones → Acceptance sign-off`
+
+- Knowledge-transfer sessions, mentoring, interview panels
+- Pre-sales estimates, POCs and RFP responses
+- RACI and escalation matrices with one accountable owner per deliverable
+- SOPs, runbooks, ADRs and blameless retrospectives
 
 </details>
+
+---
+
+## 🛠️ Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,terraform,githubactions,docker,kubernetes,ansible&theme=dark" alt="Cloud and IaC"><br>
+  <img src="https://skillicons.dev/icons?i=linux,bash,powershell,python,git,github&theme=dark" alt="Scripting and source control"><br>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,cs,dotnet,java,react&theme=dark" alt="Observability and development">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps">
+  <img src="https://img.shields.io/badge/Bicep-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Bicep">
+  <img src="https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Entra ID">
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white" alt="Trivy">
+  <img src="https://img.shields.io/badge/Checkov-4B32C3?style=flat-square&logo=paloaltonetworks&logoColor=white" alt="Checkov">
+  <img src="https://img.shields.io/badge/TFLint-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="TFLint">
+  <img src="https://img.shields.io/badge/Gitleaks-DC3545?style=flat-square&logo=git&logoColor=white" alt="Gitleaks">
+  <img src="https://img.shields.io/badge/Infracost-DB44B8?style=flat-square&logo=terraform&logoColor=white" alt="Infracost">
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph">
+</p>
+
+---
+
+## ✍️ Latest Writing
+
+<!-- BLOG-POST-LIST:START -->
+- [What is DevOps? A Simple & Complete Guide for Beginners](https://medium.com/@harshagarwal2225/what-is-devops-9066e3f22cb8) <sub>· Nov 2025</sub>
+- [My Virtual Internship Experience at Oasis Infobyte](https://medium.com/@harshagarwal2225/my-virtual-internship-experience-at-oasis-infobyte-60b2b6a90a07) <sub>· Oct 2023</sub>
+- [About TicTacToe Game](https://medium.com/@harshagarwal2225/about-tictactoe-game-1a1351c327fd) <sub>· Jun 2023</sub>
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 📈 Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshAgarwal1102/HarshAgarwal1102/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshAgarwal1102/HarshAgarwal1102/output/github-snake.svg">
+  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/HarshAgarwal1102/HarshAgarwal1102/output/github-snake.svg" width="100%">
+</picture>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=HarshAgarwal1102&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub stats">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshAgarwal1102&theme=tokyonight&hide_border=true" alt="GitHub streak">
+</p>
+
+---
+
+## 🤖 This Profile Is Code
+
+This README is maintained the way I run infrastructure: versioned, automated and least-privilege.
+
+| Workflow | What it does |
+| :--- | :--- |
+| [![snake](https://github.com/HarshAgarwal1102/HarshAgarwal1102/actions/workflows/snake.yml/badge.svg)](.github/workflows/snake.yml) | Regenerates the contribution snake daily and publishes it to the `output` branch |
+| [![blog](https://github.com/HarshAgarwal1102/HarshAgarwal1102/actions/workflows/blog-posts.yml/badge.svg)](.github/workflows/blog-posts.yml) | Syncs my latest Medium posts into this README every week |
+| [Dependabot](.github/dependabot.yml) | Keeps every action, pinned by commit SHA, up to date |
+
+Header and terminal art are hand-built SVGs in [`assets/`](assets), with dark and light variants.
 
 <details>
-<summary><b>🤝 Leadership, Vendor & Delivery Governance</b></summary>
+<summary>🦖 Off duty</summary>
 <br>
-
-```
-RFI ─▶ RFP ─▶ Technical Evaluation Matrix ─▶ SOW & Commercials ─▶ Sprints & Milestones ─▶ Acceptance Sign-off
-```
-
-- **Team growth:** KT sessions, mentoring juniors, sitting on interview panels
-- **Pre-sales:** estimates, POCs, RFP/RFI responses
-- **Vendor governance:** SOW scope and acceptance criteria, scored evaluation matrices, SLA tracking
-- **RACI & escalation matrices** so every deliverable has one accountable owner and a clear escalation path
-- **Delivery hygiene:** SOPs, runbooks, incident retrospectives, ADRs, and structured handover before sign-off
-
+<p align="center">
+  <img src="https://github.com/HarshAgarwal1102/HarshAgarwal1102/assets/117922914/61d89383-610c-46c1-a1d8-b0b06e57a9c8" alt="Chrome dino game" width="600">
+</p>
+<p align="center">I travel a lot to places near where I live, and I'm always up for a conversation about life, cloud, or both.</p>
 </details>
 
----
-
-## 🛠️ Tech Stack
-
-**☁️ Cloud & Platform**<br>
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**🏗️ IaC & Config Management**<br>
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Cloud-Init](https://img.shields.io/badge/Cloud--Init-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-**🔁 CI/CD & GitOps**<br>
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**📦 Containers & Orchestration**<br>
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-
-**🔐 DevSecOps**<br>
-![Checkov](https://img.shields.io/badge/Checkov-4B32C3?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
-![Gitleaks](https://img.shields.io/badge/Gitleaks-DC3545?style=for-the-badge&logo=git&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Defender for Cloud](https://img.shields.io/badge/Defender_for_Cloud-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
-**📡 Observability & FinOps**<br>
-![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Infracost](https://img.shields.io/badge/Infracost-DB44B8?style=for-the-badge&logo=terraform&logoColor=white)
-
-**💻 Scripting**<br>
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-
-<details>
-<summary><b>👨‍💻 Software development background</b></summary>
-<br>
-
-![C#](https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
-![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?style=plastic&logo=VB.net&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL/SQL-F80000?style=plastic&logo=oracle&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=firebase&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=plastic&logo=visualstudiocode&logoColor=white)
-
-</details>
-
----
-
-## 🧭 How I Work
-
-```
-Business & Functional Domain
-        │
-        ├── Infrastructure Design ─▶ Landing Zones · IaC · DevSecOps · Migration · Governance · DR · FinOps
-        │
-        └── Application Design   ─▶ Microservices vs Monolith · API Gateway & Service Mesh · Caching · Event-Driven
-```
-
-> I work across the delivery chain — **Pre-Sales → TAM → Enterprise Architecture → Technical Lead** — so designs stay grounded in commercial reality and are actually shippable.
-
----
-
-## 🌐 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh4404/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@harshagarwal2225/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/agarwal1102/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/agarwal_harsh)
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/agarwal_harsh)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/harshagarwal_1102/)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HarshAgarwal1102&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshAgarwal1102&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshAgarwal1102&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarshAgarwal1102&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=-1" alt="Trophies" />
-</p>
-
-## 🎮 Fun
-
-<p align="center">
-  <img src="https://github.com/HarshAgarwal1102/HarshAgarwal1102/assets/117922914/61d89383-610c-46c1-a1d8-b0b06e57a9c8" alt="dino" />
-</p>
-
-<p align="center"><i>“Automate the boring, govern the critical, and measure everything.”</i></p>
+<p align="center"><sub><i>Automate the boring · Govern the critical · Measure everything</i></sub></p>
