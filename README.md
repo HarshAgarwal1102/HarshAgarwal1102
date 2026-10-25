@@ -80,9 +80,7 @@ status:
 
 ## 🧩 How I Design
 
-<details>
-<summary><b>🏗️ Enterprise governance & landing zones (Microsoft CAF)</b></summary>
-<br>
+### 🏗️ Enterprise governance & landing zones (Microsoft CAF)
 
 **Strategy → Plan → Ready → Adopt → Govern → Secure & Manage**
 
@@ -103,11 +101,7 @@ status:
 - **Azure Policy initiatives** (CIS, MCSB) at Management Group scope; audit/deny with time-bound, documented exemptions
 - **Group-based RBAC + PIM** for just-in-time privileged access with multi-stage approval
 
-</details>
-
-<details>
-<summary><b>🌐 Hub-and-spoke networking</b></summary>
-<br>
+### 🌐 Hub-and-spoke networking
 
 ```mermaid
 flowchart TB
@@ -132,11 +126,7 @@ flowchart TB
 - **Forced tunnelling** of default and inter-spoke traffic through the firewall
 - **Private-only PaaS** through Private Endpoints and hub-linked Private DNS
 
-</details>
-
-<details>
-<summary><b>🛡️ Defense in depth</b></summary>
-<br>
+### 🛡️ Defense in depth
 
 | Layer | Controls |
 | :--- | :--- |
@@ -145,11 +135,7 @@ flowchart TB
 | **Governance** | Azure Policy, CIS / ISO 27001 benchmarks, Defender for Cloud Secure Score |
 | **Compute** | Defender for Servers, vulnerability scanning, CMK disk encryption, patch baselines |
 
-</details>
-
-<details>
-<summary><b>⚙️ Terraform delivery pipeline</b></summary>
-<br>
+### ⚙️ Terraform delivery pipeline
 
 ```mermaid
 flowchart LR
@@ -166,11 +152,7 @@ flowchart LR
 - Semantically versioned modules · nightly `plan -detailed-exitcode` drift checks
 - Trunk-based development; `main` protected with no direct push, 2 reviewers and `CODEOWNERS`
 
-</details>
-
-<details>
-<summary><b>🚚 Migration of 100+ workloads (Dev / UAT / Prod)</b></summary>
-<br>
+### 🚚 Migration of 100+ workloads (Dev / UAT / Prod)
 
 ```mermaid
 flowchart LR
@@ -183,11 +165,7 @@ flowchart LR
 | **Cutover** | Replication sync, DNS TTL reduction, traffic rerouting, validation tests |
 | **Post-migration** | Telemetry, user sanity tests, performance benchmarks, 2–4 weeks of hypercare |
 
-</details>
-
-<details>
-<summary><b>💰 FinOps · 💾 DR · 📡 Observability</b></summary>
-<br>
+### 💰 FinOps · 💾 DR · 📡 Observability
 
 | Area | Practice |
 | :--- | :--- |
@@ -195,11 +173,7 @@ flowchart LR
 | **DR / HA** | LRS → ZRS → GRS by criticality; VMSS across zones; ASR to the paired region; explicit RTO and RPO per workload |
 | **Observability** | Central Log Analytics per landing zone; Azure Monitor Agent with DCRs; Action Groups to Teams, Slack or PagerDuty |
 
-</details>
-
-<details>
-<summary><b>🤝 Leadership & delivery governance</b></summary>
-<br>
+### 🤝 Leadership & delivery governance
 
 `RFI → RFP → Evaluation matrix → SOW → Milestones → Acceptance sign-off`
 
@@ -207,8 +181,6 @@ flowchart LR
 - Pre-sales estimates, POCs and RFP responses
 - RACI and escalation matrices with one accountable owner per deliverable
 - SOPs, runbooks, ADRs and blameless retrospectives
-
-</details>
 
 ---
 
