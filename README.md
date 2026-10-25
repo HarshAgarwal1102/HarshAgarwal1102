@@ -27,6 +27,15 @@
 
 ## ⚡ At a Glance
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshAgarwal1102/HarshAgarwal1102/output/at-a-glance-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshAgarwal1102/HarshAgarwal1102/output/at-a-glance-light.svg">
+  <img alt="At a glance: DevSecOps & Cloud Engineer at Hansa Solutions India Pvt Ltd since March 2024, building an AI Terraform drift detector, B.Tech CSE (CGPA 8.56), Azure-first, open to platform engineering, cloud architecture, DevSecOps, DevOps and infra management roles" src="https://raw.githubusercontent.com/HarshAgarwal1102/HarshAgarwal1102/output/at-a-glance-dark.svg" width="100%">
+</picture>
+
+<details>
+<summary>View as YAML</summary>
+
 ```yaml
 # $ kubectl get engineer harsh-agarwal -o yaml
 apiVersion: people/v1
@@ -38,17 +47,24 @@ metadata:
     cloud: azure
 spec:
   currentlyAt: Hansa Solutions India Pvt Ltd
+  since: 2024-03-01
+  cloud:
+    network:  [hub-and-spoke, azure-firewall]
+    security: [defender-for-cloud, entra-id, pim]
+    govern:   [landing-zones, azure-policy]
   platform:  [azure-landing-zones, hub-and-spoke, entra-id, azure-policy, pim]
   iac:       [terraform, bicep, cloud-init]
   pipelines: [github-actions, azure-devops, oidc-federation, sha-pinned-actions]
   security:  [tflint, trivy, checkov, gitleaks, trufflehog, defender-for-cloud]
   finops:    [infracost, azure-retail-prices-api, rightsizing, reservations]
-  aiops:     [python, langgraph]
-  education: "B.Tech CSE, DIT University (2024)"
+  aiops:     [python, langgraph, mcp-servers, rag-agents, claude-code-management]
+  education: "B.Tech CSE, DIT University (2024), CGPA 8.56/10"
 status:
   building: ai-terraform-drift-detector Level 2 (local-first CLI)
-  openTo:   [platform-engineering, cloud-architecture, devsecops]
+  openTo:   [platform-engineering, cloud-architecture, devsecops, devops-engineer, infra-management]
 ```
+
+</details>
 
 ---
 
@@ -295,7 +311,7 @@ This README is maintained the way I run infrastructure: versioned, automated and
 
 | Workflow | What it does |
 | :--- | :--- |
-| [![snake](https://github.com/HarshAgarwal1102/HarshAgarwal1102/actions/workflows/snake.yml/badge.svg)](.github/workflows/snake.yml) | Regenerates the contribution snake daily and publishes it to the `output` branch |
+| [![snake](https://github.com/HarshAgarwal1102/HarshAgarwal1102/actions/workflows/snake.yml/badge.svg)](.github/workflows/snake.yml) | Daily: regenerates the contribution snake and the At a Glance card (experience counted from March 2024) with [`scripts/glance.py`](scripts/glance.py), then publishes both to the `output` branch |
 | [Dependabot](.github/dependabot.yml) | Keeps every action, pinned by commit SHA, up to date |
 | 🔒 Branch protection | `main` is locked and PR-only, just like production |
 
