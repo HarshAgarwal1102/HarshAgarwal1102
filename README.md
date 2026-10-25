@@ -6,6 +6,7 @@
 
 <br>
 <br>
+<br>
 <p align="center">
   <a href="https://drive.google.com/file/d/1NM0YT_uRSXG6S4tKwD47B3GF6WAhz4dG/view?usp=drive_link"><img src="https://img.shields.io/badge/Résumé-FF7A1A?style=for-the-badge&logo=googledrive&logoColor=white" alt="Résumé"></a>
   <a href="https://harshagarwal-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0B1020?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio"></a>
