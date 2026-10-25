@@ -69,28 +69,6 @@ status:
 
 ---
 
-## 🚀 Featured Engineering
-
-<a href="https://github.com/HarshAgarwal1102/ai-terraform-drift-detector">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/featured-drift-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/featured-drift-light.svg">
-    <img alt="AI-Powered Terraform Drift Detection & Remediation Platform: finds out when Azure no longer matches Terraform and explains who changed what, when, and what it costs. 2,885 tests, 98.85% drift-engine coverage, 135 end-to-end cases, 6 required checks, OIDC with no client secrets. A live Azure test flagged 5 unmanaged resources (about $44.85/mo)." src="assets/featured-drift-dark.svg" width="100%">
-  </picture>
-</a>
-
-<br><br>
-
-<a href="https://github.com/HarshAgarwal1102/Azure-Infra-Landing-Zone">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/featured-landing-zone-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/featured-landing-zone-light.svg">
-    <img alt="Azure Infrastructure Landing Zone: a modular, fully automated Azure landing zone in Terraform with 9 reusable modules, preprod and prod environments, and a bootstrap, plan and apply pipeline with Gitleaks secret scanning." src="assets/featured-landing-zone-dark.svg" width="100%">
-  </picture>
-</a>
-
----
-
 ## 🏛️ The 10 Pillars I Build Against
 
 | | | | | |
@@ -253,6 +231,28 @@ flowchart LR
   <img src="https://img.shields.io/badge/Infracost-DB44B8?style=flat-square&logo=terraform&logoColor=white" alt="Infracost">
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph">
 </p>
+
+---
+
+## 🚀 Featured Engineering
+
+<a href="https://github.com/HarshAgarwal1102/ai-terraform-drift-detector">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/featured-drift-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/featured-drift-light.svg">
+    <img alt="AI-Powered Terraform Drift Detection & Remediation Platform: finds out when Azure no longer matches Terraform and explains who changed what, when, and what it costs. 2,885 tests, 98.85% drift-engine coverage, 135 end-to-end cases, 6 required checks, OIDC with no client secrets. A live Azure test flagged 5 unmanaged resources (about $44.85/mo)." src="assets/featured-drift-dark.svg" width="100%">
+  </picture>
+</a>
+
+<br><br>
+
+<a href="https://github.com/HarshAgarwal1102/Azure-Infra-Landing-Zone">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/featured-landing-zone-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/featured-landing-zone-light.svg">
+    <img alt="Azure Infrastructure Landing Zone: a modular, fully automated Azure landing zone in Terraform with 9 reusable modules, preprod and prod environments, and a bootstrap, plan and apply pipeline with Gitleaks secret scanning." src="assets/featured-landing-zone-dark.svg" width="100%">
+  </picture>
+</a>
 
 ---
 
