@@ -245,9 +245,9 @@ flowchart LR
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [What is DevOps? A Simple & Complete Guide for Beginners](https://medium.com/@harshagarwal2225/what-is-devops-9066e3f22cb8) <sub>· Nov 2025</sub>
-- [My Virtual Internship Experience at Oasis Infobyte](https://medium.com/@harshagarwal2225/my-virtual-internship-experience-at-oasis-infobyte-60b2b6a90a07) <sub>· Oct 2023</sub>
-- [About TicTacToe Game](https://medium.com/@harshagarwal2225/about-tictactoe-game-1a1351c327fd) <sub>· Jun 2023</sub>
+- [Azure Policy and Identity Management: The Two Guardrails Every Azure Platform Needs](https://medium.com/@harshagarwal2225/azure-policy-and-identity-management-the-two-guardrails-every-azure-platform-needs-747c41351bdf) <sub>· Oct 2026</sub>
+- [Terraform at Scale: Modular Infrastructure and Generic Pipeline Templates](https://medium.com/@harshagarwal2225/terraform-at-scale-modular-infrastructure-and-generic-pipeline-templates-5c9774a78e4e) <sub>· Oct 2026</sub>
+- [Azure Landing Zones, Explained by a DevOps Engineer](https://medium.com/@harshagarwal2225/azure-landing-zones-explained-by-a-devops-engineer-f85375c0c063) <sub>· Oct 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ---
