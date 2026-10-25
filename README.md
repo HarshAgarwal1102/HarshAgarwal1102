@@ -101,6 +101,8 @@ status:
 - **Azure Policy initiatives** (CIS, MCSB) at Management Group scope; audit/deny with time-bound, documented exemptions
 - **Group-based RBAC + PIM** for just-in-time privileged access with multi-stage approval
 
+<br>
+
 ### 🌐 Hub-and-spoke networking
 
 ```mermaid
@@ -126,6 +128,8 @@ flowchart TB
 - **Forced tunnelling** of default and inter-spoke traffic through the firewall
 - **Private-only PaaS** through Private Endpoints and hub-linked Private DNS
 
+<br>
+
 ### 🛡️ Defense in depth
 
 | Layer | Controls |
@@ -134,6 +138,8 @@ flowchart TB
 | **Network** | NSG/ASG micro-segmentation, Azure Firewall Premium, Private Endpoints, DDoS Protection |
 | **Governance** | Azure Policy, CIS / ISO 27001 benchmarks, Defender for Cloud Secure Score |
 | **Compute** | Defender for Servers, vulnerability scanning, CMK disk encryption, patch baselines |
+
+<br>
 
 ### ⚙️ Terraform delivery pipeline
 
@@ -152,6 +158,8 @@ flowchart LR
 - Semantically versioned modules · nightly `plan -detailed-exitcode` drift checks
 - Trunk-based development; `main` protected with no direct push, 2 reviewers and `CODEOWNERS`
 
+<br>
+
 ### 🚚 Migration of 100+ workloads (Dev / UAT / Prod)
 
 ```mermaid
@@ -165,6 +173,8 @@ flowchart LR
 | **Cutover** | Replication sync, DNS TTL reduction, traffic rerouting, validation tests |
 | **Post-migration** | Telemetry, user sanity tests, performance benchmarks, 2–4 weeks of hypercare |
 
+<br>
+
 ### 💰 FinOps · 💾 DR · 📡 Observability
 
 | Area | Practice |
@@ -172,6 +182,8 @@ flowchart LR
 | **FinOps** | Remove orphaned disks, snapshots and IPs; rightsize on 30-day P95; Reservations and Savings Plans; non-prod schedules; DCR log filtering |
 | **DR / HA** | LRS → ZRS → GRS by criticality; VMSS across zones; ASR to the paired region; explicit RTO and RPO per workload |
 | **Observability** | Central Log Analytics per landing zone; Azure Monitor Agent with DCRs; Action Groups to Teams, Slack or PagerDuty |
+
+<br>
 
 ### 🤝 Leadership & delivery governance
 
@@ -181,6 +193,8 @@ flowchart LR
 - Pre-sales estimates, POCs and RFP responses
 - RACI and escalation matrices with one accountable owner per deliverable
 - SOPs, runbooks, ADRs and blameless retrospectives
+
+<br>
 
 ---
 
