@@ -4,6 +4,8 @@
   <img alt="Harsh Agarwal, DevSecOps & Cloud Engineer" src="assets/banner-dark.svg" width="100%">
 </picture>
 
+<br>
+<br>
 <p align="center">
   <a href="https://drive.google.com/file/d/1NM0YT_uRSXG6S4tKwD47B3GF6WAhz4dG/view?usp=drive_link"><img src="https://img.shields.io/badge/Résumé-FF7A1A?style=for-the-badge&logo=googledrive&logoColor=white" alt="Résumé"></a>
   <a href="https://harshagarwal-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0B1020?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio"></a>
@@ -11,6 +13,8 @@
   <a href="https://medium.com/@harshagarwal2225/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
   <a href="mailto:harshagarwal.4404@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
+
+<br>
 
 <p align="center">
   <img src="assets/terminal.svg" alt="Terminal: whoami, terraform plan with no drift, 2885 tests passing" width="820">
