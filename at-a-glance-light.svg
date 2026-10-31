@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="591" viewBox="0 0 900 591" role="img" aria-labelledby="title desc">
+  <title id="title">Harsh Agarwal at a glance</title>
+  <desc id="desc">Now: DevSecOps &amp; Cloud Engineer at Hansa Solutions India Pvt Ltd, 2 yrs 7 mos since March 2024. Building ai-terraform-drift-detector Level 2. Education: B.Tech CSE, DIT University (2024), CGPA 8.56/10. Open to: Platform Engineering, Cloud Architecture, DevSecOps, DevOps Engineer, Infra Management. Primary cloud: Microsoft Azure (network: Hub-and-spoke · Firewall; security: Defender · Entra ID · PIM; govern: Landing zones · Policy). Platform: Landing Zones, Hub-and-spoke, Entra ID, Azure Policy, PIM. IaC: Terraform, Bicep, cloud-init. Pipelines: GitHub Actions, Azure DevOps, OIDC federation, SHA-pinned actions. Security: TFLint, Trivy, Checkov, Gitleaks, TruffleHog, Defender for Cloud. FinOps: Infracost, Retail Prices API, Rightsizing, Reservations. AIOps: Python, LangGraph, MCP servers, RAG agents, Claude Code management.</desc>
+  <style>
+    .fade { animation: fade .8s ease-out both; }
+    .ping { transform-box: fill-box; transform-origin: center; animation: ping 2.4s ease-out infinite; }
+    .scan { animation: scan 2.2s ease-in-out infinite; }
+    @keyframes fade { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+    @keyframes ping { 0% { transform: scale(1); opacity: .7; } 100% { transform: scale(3.2); opacity: 0; } }
+    @keyframes scan { from { transform: translateX(0); } to { transform: translateX(258px); } }
+    @media (prefers-reduced-motion: reduce) { .fade, .ping, .scan { animation: none; } .ping { opacity: 0; } }
+  </style>
+  <rect x=".5" y=".5" width="899" height="590" rx="16" fill="#F7F9FD" stroke="#D9E2F2"/>
+  <g class="fade">
+    <text x="28" y="47" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="13" fill="#B84A00" letter-spacing="1">$ kubectl describe engineer harsh-agarwal</text>
+    <rect x="722.0" y="30" width="150.0" height="28" rx="14" fill="#EAF0FA" stroke="#2563EB" stroke-opacity=".45"/>
+    <circle cx="738.0" cy="44" r="4" fill="#1A7F37"/>
+    <text x="750" y="48" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12" fill="#334155" font-weight="600">Open to new roles</text>
+    <rect x="28" y="70" width="416" height="136" rx="12" fill="#FFFFFF" stroke="#D9E2F2"/>
+    <text x="46" y="98" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="11" fill="#475571" letter-spacing="1.5">NOW</text>
+    <text x="46" y="128" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="20" fill="#0B1020" font-weight="700">Hansa Solutions India Pvt Ltd</text>
+    <text x="46" y="152" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" fill="#475571">DevSecOps &amp; Cloud Engineer</text>
+    <rect x="46.0" y="166" width="380" height="1" fill="#D9E2F2"/>
+    <text x="46" y="190" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="11" fill="#475571" letter-spacing="1.5">EXPERIENCE</text>
+    <text x="142" y="191" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="15" fill="#0B1020" font-weight="700">2 yrs 7 mos</text>
+    <text x="426" y="190" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12" fill="#475571" text-anchor="end">Mar 2024 – Present</text>
+    <circle class="ping" cx="307.8" cy="186" r="3.5" fill="#1A7F37"/>
+    <circle cx="307.8" cy="186" r="3.5" fill="#1A7F37"/>
+    <rect x="456" y="70" width="416" height="136" rx="12" fill="#FFFFFF" stroke="#D9E2F2"/>
+    <circle class="ping" cx="477.5" cy="94" r="3.5" fill="#E8630A"/>
+    <circle cx="477.5" cy="94" r="3.5" fill="#E8630A"/>
+    <text x="489" y="98" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="11" fill="#B84A00" letter-spacing="1.5">BUILDING</text>
+    <text x="474" y="128" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="16" fill="#0B1020" font-weight="600">ai-terraform-drift-detector</text>
+    <rect x="474.0" y="150" width="188" height="6" rx="3" fill="#2563EB"/>
+    <clipPath id="l2"><rect x="666" y="150" width="188" height="6" rx="3"/></clipPath>
+    <rect x="666" y="150" width="188" height="6" rx="3" fill="#E2E8F3"/>
+    <g clip-path="url(#l2)"><rect class="scan" x="596" y="150" width="70" height="6" rx="3" fill="#E8630A"/></g>
+    <text x="474" y="178" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12" fill="#475571">Level 1 · v1.0.0 shipped</text>
+    <text x="854" y="178" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12" fill="#475571" text-anchor="end">Level 2 · local-first CLI · in progress</text>
+    <rect x="28" y="218" width="168" height="138" rx="12" fill="#FFFFFF" stroke="#D9E2F2"/>
+    <rect x="208" y="218" width="404" height="138" rx="12" fill="#FFFFFF" stroke="#D9E2F2"/>
+    <rect x="624" y="218" width="248" height="138" rx="12" fill="#FFFFFF" stroke="#D9E2F2"/>
+    <text x="46" y="246" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="11" fill="#475571" letter-spacing="1.5">EDUCATION</text>
+    <text x="46" y="272" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="17" fill="#0B1020" font-weight="700">B.Tech CSE</text>
+    <text x="46" y="294" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" fill="#475571">DIT University · 2024</text>
+    <rect x="46" y="312" width="132" height="30" rx="8" fill="#EAF0FA" stroke="#2563EB" stroke-opacity=".45"/>
+    <text x="58" y="331" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="11" fill="#475571" letter-spacing="1.5">CGPA</text>
+    <text x="166" y="332" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="15" fill="#0B1020" font-weight="700" text-anchor="end">8.56 / 10</text>
+    <text x="226" y="246" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="11" fill="#475571" letter-spacing="1.5">OPEN TO</text>
+    <g transform="translate(0 260)"><rect x="226.0" y="0" width="151.3" height="28" rx="14" fill="#EAF0FA" stroke="#2563EB" stroke-opacity=".45"/><text x="301.7" y="18.5" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" fill="#1D4ED8" font-weight="600" text-anchor="middle">Platform Engineering</text><rect x="385.3" y="0" width="136.0" height="28" rx="14" fill="#EAF0FA" stroke="#2563EB" stroke-opacity=".45"/><text x="453.3" y="18.5" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" fill="#1D4ED8" font-weight="600" text-anchor="middle">Cloud Architecture</text><rect x="226.0" y="36" width="91.9" height="28" rx="14" fill="#EAF0FA" stroke="#2563EB" stroke-opacity=".45"/><text x="272" y="54.5" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" fill="#1D4ED8" font-weight="600" text-anchor="middle">DevSecOps</text><rect x="325.9" y="36" width="127.3" height="28" rx="14" fill="#EAF0FA" stroke="#2563EB" stroke-opacity=".45"/><text x="389.6" y="54.5" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" fill="#1D4ED8" font-weight="600" text-anchor="middle">DevOps Engineer</text><rect x="461.3" y="36" width="133.5" height="28" rx="14" fill="#EAF0FA" stroke="#2563EB" stroke-opacity=".45"/><text x="528.1" y="54.5" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" fill="#1D4ED8" font-weight="600" text-anchor="middle">Infra Management</text></g>
+    <text x="642" y="246" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="11" fill="#475571" letter-spacing="1.5">PRIMARY CLOUD</text>
+    <text x="642" y="272" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="17" fill="#0369A1" font-weight="700">Microsoft Azure</text>
+    <text x="642" y="298" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="10" fill="#475571" letter-spacing="1">NETWORK</text>
+    <text x="708" y="298" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#334155">Hub-and-spoke · Firewall</text>
+    <text x="642" y="320" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="10" fill="#475571" letter-spacing="1">SECURITY</text>
+    <text x="708" y="320" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#334155">Defender · Entra ID · PIM</text>
+    <text x="642" y="342" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="10" fill="#475571" letter-spacing="1">GOVERN</text>
+    <text x="708" y="342" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#334155">Landing zones · Policy</text>
+    <rect x="28" y="370" width="844" height="193" rx="12" fill="#FFFFFF" stroke="#D9E2F2"/>
+    <text x="46" y="398" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="11" fill="#475571" letter-spacing="1.5">STACK</text>
+    <text x="46" y="424" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" fill="#0369A1" font-weight="700">Platform</text>
+    <text x="46" y="446" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#334155">Landing Zones</text>
+    <text x="46" y="465" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#334155">Hub-and-spoke</text>
+    <text x="46" y="484" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#334155">Entra ID</text>
+    <text x="46" y="503" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#334155">Azure Policy</text>
+    <text x="46" y="522" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#334155">PIM</text>
+    <text x="177.7" y="424" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" fill="#0369A1" font-weight="700">IaC</text>
+    <text x="177.7" y="446" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#334155">Terraform</text>
+    <text x="177.7" y="465" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#334155">Bicep</text>
+    <text x="177.7" y="484" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#334155">cloud-init</text>
+    <text x="271.9" y="424" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" fill="#0369A1" font-weight="700">Pipelines</text>
+    <text x="271.9" y="446" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#334155">GitHub Actions</text>
+    <text x="271.9" y="465" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#334155">Azure DevOps</text>
+    <text x="271.9" y="484" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#334155">OIDC federation</text>
+    <text x="271.9" y="503" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#334155">SHA-pinned actions</text>
+    <text x="414.2" y="424" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" fill="#0369A1" font-weight="700">Security</text>
+    <text x="414.2" y="446" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#334155">TFLint</text>
+    <text x="414.2" y="465" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#334155">Trivy</text>
+    <text x="414.2" y="484" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#334155">Checkov</text>
+    <text x="414.2" y="503" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#334155">Gitleaks</text>
+    <text x="414.2" y="522" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#334155">TruffleHog</text>
+    <text x="414.2" y="541" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#334155">Defender for Cloud</text>
+    <text x="551.2" y="424" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" fill="#0369A1" font-weight="700">FinOps</text>
+    <text x="551.2" y="446" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#334155">Infracost</text>
+    <text x="551.2" y="465" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#334155">Retail Prices API</text>
+    <text x="551.2" y="484" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#334155">Rightsizing</text>
+    <text x="551.2" y="503" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#334155">Reservations</text>
+    <text x="682.9" y="424" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" fill="#B84A00" font-weight="700">AIOps</text>
+    <text x="682.9" y="446" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#334155">Python</text>
+    <text x="682.9" y="465" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#334155">LangGraph</text>
+    <text x="682.9" y="484" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#334155">MCP servers</text>
+    <text x="682.9" y="503" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#334155">RAG agents</text>
+    <text x="682.9" y="522" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#334155">Claude Code management</text>
+  </g>
+</svg>
